@@ -32,6 +32,3 @@ This is a full-stack pet adoption platform built with **React**, **Redux Toolkit
 | SweetAlert2   | Modern alert/dialog library        |
 | Iconify       | Icon set used in Header            |
 
-> Backend is assumed to be built with **Node.js, Express, and MongoDB**
-
---
